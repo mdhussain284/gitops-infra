@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: web-app
-          image: quay.io/mdhussain28/nginx
+          image: devopsjourney1/mywebapp
           ports:
             - containerPort: 80
